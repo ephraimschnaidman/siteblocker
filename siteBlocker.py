@@ -2,7 +2,7 @@ import time
 from datetime import datetime as dt
 
 
-hosts_temp="hosts_test_file" # test the program is working on thwe dummie file
+hosts_temp="hosts_test_file" # test the program is working on the dummie file
 hosts_path_unix="/etc/hosts"   #  root file in MAC/Linux operating systems.
 #hosts_path_W="C:\Windows\System32\drivers\etc\hosts" # use this for Windows operating systems
 redirect="127.0.0.1"
